@@ -13,7 +13,6 @@
 		FD0C16572AA826C60014CC23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD0C16552AA826C60014CC23 /* Main.storyboard */; };
 		FD0C16592AA826C70014CC23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD0C16582AA826C70014CC23 /* Assets.xcassets */; };
 		FD0C165C2AA826C70014CC23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD0C165A2AA826C70014CC23 /* LaunchScreen.storyboard */; };
-		FD0C16642AA827900014CC23 /* NextViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD0C16632AA827900014CC23 /* NextViewController.storyboard */; };
 		FD0C16662AA827A60014CC23 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0C16652AA827A60014CC23 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		FD0C16582AA826C70014CC23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD0C165B2AA826C70014CC23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD0C165D2AA826C70014CC23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FD0C16632AA827900014CC23 /* NextViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = NextViewController.storyboard; sourceTree = "<group>"; };
 		FD0C16652AA827A60014CC23 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +62,6 @@
 				FD0C16512AA826C60014CC23 /* SceneDelegate.swift */,
 				FD0C16552AA826C60014CC23 /* Main.storyboard */,
 				FD0C16532AA826C60014CC23 /* ViewController.swift */,
-				FD0C16632AA827900014CC23 /* NextViewController.storyboard */,
 				FD0C16652AA827A60014CC23 /* NextViewController.swift */,
 				FD0C16582AA826C70014CC23 /* Assets.xcassets */,
 				FD0C165A2AA826C70014CC23 /* LaunchScreen.storyboard */,
@@ -133,7 +130,6 @@
 			files = (
 				FD0C165C2AA826C70014CC23 /* LaunchScreen.storyboard in Resources */,
 				FD0C16592AA826C70014CC23 /* Assets.xcassets in Resources */,
-				FD0C16642AA827900014CC23 /* NextViewController.storyboard in Resources */,
 				FD0C16572AA826C60014CC23 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
